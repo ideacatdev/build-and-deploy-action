@@ -1,4 +1,4 @@
-FROM node:18-alpine:latest
+FROM node:18-alpine
 
 LABEL org.opencontainers.image.source = "https://github.com/ideacatdev/h6777u22"
 
